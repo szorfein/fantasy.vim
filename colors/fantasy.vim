@@ -10,7 +10,7 @@ endif
 set t_Co=256
 let g:colors_name = "fantasy"
 
-hi Normal guifg=#f4d3bd guibg=NONE guisp=NONE gui=NONE ctermfg=188 ctermbg=NONE cterm=NONE
+hi Normal guifg=#f4d3bd guibg=#1a1512 guisp=1a1512 gui=NONE ctermfg=188 ctermbg=NONE cterm=NONE
 hi IncSearch guifg=#192224 guibg=#afafaf guisp=#afafaf gui=NONE ctermfg=235 ctermbg=145 cterm=NONE
 hi WildMenu guifg=NONE guibg=#A1A6A8 guisp=#A1A6A8 gui=NONE ctermfg=NONE ctermbg=248 cterm=NONE
 hi SignColumn guifg=#192224 guibg=#536991 guisp=#536991 gui=NONE ctermfg=235 ctermbg=60 cterm=NONE
